@@ -1,5 +1,10 @@
 ### Hi there 👋
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarGazer1995)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- --- -->
 
+Here is Henry Gong. I used to be an algorithm engineer at Plus and currently working for BMW as a software developer. I got my masters from the Technical University of Denmark. Github is one of important portals for me to connect to the world. 
+
+Since this is my personal github account, I cannot push work-related code here. But I will update some works that might interesting. So, please check it out and give a star.
 <!--
 **StarGazer1995/StarGazer1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
